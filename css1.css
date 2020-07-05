@@ -20,13 +20,13 @@
 }
 
 section {
-    padding: 55px 0;
+    padding: 10px 0;
 }
 
 section .section-title {
     text-align: center;
     color: #007b5e;
-    margin-bottom: 50px;
+    margin-bottom: 12px;
     text-transform: uppercase;
 }
 
@@ -71,7 +71,7 @@ section .section-title {
     -webkit-transform: rotateY(0deg);
     -ms-transform: rotateY(0deg);
     z-index: 2;
-    margin-bottom: 30px;
+    margin-bottom: 16px;
 }
 
 .backside {
