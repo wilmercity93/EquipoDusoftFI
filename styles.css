@@ -2,7 +2,7 @@
 
 @import url('https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css');
 #team {
-    background: #eee !important;
+    background: rgb(143, 65, 65) !important;
 }
 
 .btn-primary:hover,
@@ -126,4 +126,7 @@ section .section-title {
     width: 120px;
     height: 120px;
     border-radius: 50%;
+}
+.card-body {
+    padding: 0.1rem;
 }
